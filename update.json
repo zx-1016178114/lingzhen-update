@@ -1,7 +1,7 @@
 {
- "version": "1.2.1",
- "notes": "同步更新功能上线：封面艺术字（金属渐变+立体影）、标题颜色自动契合封面色调、一键流水线同步封面设置。",
- "sha256": "e44279caa9a476a06d150e883b66c74fe5eb73f629d66f588a73e491b2805f13",
+ "version": "1.2.2",
+ "notes": "修复：AI生图/封面/分镜现在以原剧抽帧为人物参考，人物与短剧真实角色一致；AI创作页新增人物参考帧提取与选择",
+ "sha256": "307225f74bc5596445b8ece384136e935b139913947baf9816a2412f5751aea5",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
