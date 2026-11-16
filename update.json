@@ -1,7 +1,7 @@
 {
- "version": "1.2.2",
- "notes": "修复：AI生图/封面/分镜现在以原剧抽帧为人物参考，人物与短剧真实角色一致；AI创作页新增人物参考帧提取与选择",
- "sha256": "307225f74bc5596445b8ece384136e935b139913947baf9816a2412f5751aea5",
+ "version": "1.2.3",
+ "notes": "修复：去重ffmpeg管道死锁（大文件/多集时卡死）；修复：流水线中断后残留中间产物污染下次运行（重组前自动清理）",
+ "sha256": "de24f22dab6072ef8f1b6e2e2e5d49c41db0616f5463705e86aee68b3a01f9ca",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
