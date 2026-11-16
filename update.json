@@ -1,7 +1,7 @@
 {
- "version": "1.2.3",
- "notes": "修复：去重ffmpeg管道死锁（大文件/多集时卡死）；修复：流水线中断后残留中间产物污染下次运行（重组前自动清理）",
- "sha256": "de24f22dab6072ef8f1b6e2e2e5d49c41db0616f5463705e86aee68b3a01f9ca",
+ "version": "1.2.4",
+ "notes": "AI封面改为扫描原封面作底稿改图（保留人物模型与画风，星绘图生图逻辑）；AI分镜按原视频逐镜轮换参考帧生成；支持多图参考与自动降级",
+ "sha256": "3c826c3e58564f41e6c94803c93fb35e420aedc21a44210bcd74daceb62d81ce",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
