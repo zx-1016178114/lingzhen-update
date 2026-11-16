@@ -1,0 +1,9 @@
+{
+ "version": "1.2.1",
+ "notes": "同步更新功能上线：封面艺术字（金属渐变+立体影）、标题颜色自动契合封面色调、一键流水线同步封面设置。",
+ "sha256": "e44279caa9a476a06d150e883b66c74fe5eb73f629d66f588a73e491b2805f13",
+ "parts": [
+  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
+  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
+ ]
+}
