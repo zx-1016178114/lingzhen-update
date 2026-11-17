@@ -1,0 +1,11 @@
+{
+ "version": "1.3.10",
+ "notes": "修复授权机 SSL 证书校验；内置 CA、20MB 分卷、300 秒超时与自动重试。",
+ "sha256": "65aa9b728c9026ec0241a70d11373929285c197108d6f31ac8fe290d1e1a7985",
+ "parts": [
+  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/v1.3.10/lingzhen.exe.001",
+  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/v1.3.10/lingzhen.exe.002",
+  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/v1.3.10/lingzhen.exe.003",
+  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/v1.3.10/lingzhen.exe.004"
+ ]
+}
