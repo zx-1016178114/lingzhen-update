@@ -1,7 +1,7 @@
 {
- "version": "1.2.5",
- "notes": "修复：流拷贝切分的片段带不完整数据包导致去重失败（missing picture in access unit），现自动启用破损流容忍解码重试；错误提示改为显示关键尾部信息",
- "sha256": "26a08e10c93eeda047f7fd09e2c996f412088b9c98aeb369654c74e78281939a",
+ "version": "1.2.6",
+ "notes": "修复：机器码不再依赖不稳定的“第一块盘”序列号（插拔U盘会导致授权丢失），改用CPU+主板+主机UUID；旧激活码自动遍历全部磁盘候选找回，老用户升级授权不丢",
+ "sha256": "d4e9aef6ec5447d21c2183529a2576684dc87ca8bbcd5fafc2bd95a91a9c4848",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
