@@ -1,7 +1,7 @@
 {
- "version": "1.2.7",
- "notes": "AI封面改用星绘出图逻辑：剧名由AI直接画进封面（字体样式与封面风格一致的艺术字），尺寸跟随原封面比例，人物/构图/色调完全保留，不再本地叠字",
- "sha256": "04f73fb072056f34cfd07754c27f1a284aa51c55f2dadbed67e593998efaaf9a",
+ "version": "1.2.8",
+ "notes": "更新地址内置：授权存证写入更新地址，程序同时内置默认地址，客户机零配置即可自动更新",
+ "sha256": "498337eca83c0635dc4bc8fe4c27e74741a55294270b68c62a3d1cc0d20d488a",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
