@@ -1,7 +1,7 @@
 {
- "version": "1.3.3",
- "notes": "更新检查加防缓存（时间戳+no-cache头），解决部分网络下更新信息被缓存导致看不到新版本的问题",
- "sha256": "1e2996e0f66a7f6bcca004b3b573646a8e9e42223f2cd18d6bc8077c4ddd9f4b",
+ "version": "1.3.4",
+ "notes": "修复去重参数上下调节键清零；全部参数支持按合法范围和小数步长微调。",
+ "sha256": "d97cfc15a6304ab4eeee9ba877a5251e741a6bfeb765f1c2fc89f7d9b6514f96",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
