@@ -1,7 +1,7 @@
 {
- "version": "1.3.4",
- "notes": "修复去重参数上下调节键清零；全部参数支持按合法范围和小数步长微调。",
- "sha256": "d97cfc15a6304ab4eeee9ba877a5251e741a6bfeb765f1c2fc89f7d9b6514f96",
+ "version": "1.3.5",
+ "notes": "修复损坏音频静音兜底的 FFmpeg 参数顺序，解决 anullsrc Invalid argument 导致分段编码失败。",
+ "sha256": "4dbc42e2a1255d88dde71876fbd7992b49df1b148d46c38bb04a10053efd4264",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
