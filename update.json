@@ -1,7 +1,7 @@
 {
- "version": "1.2.8",
- "notes": "更新地址内置：授权存证写入更新地址，程序同时内置默认地址，客户机零配置即可自动更新",
- "sha256": "498337eca83c0635dc4bc8fe4c27e74741a55294270b68c62a3d1cc0d20d488a",
+ "version": "1.2.9",
+ "notes": "内置默认语言模型doubao-seed-2-1-turbo与生图模型doubao-seedream-5-0-pro及更新地址，客户机只需填API Key即可使用全部AI功能",
+ "sha256": "9c613d1ef99a415aebef4fb8458b8dd5ed2a977e2760e969961fc6c067595f1b",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
