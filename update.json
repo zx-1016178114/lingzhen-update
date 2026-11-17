@@ -1,7 +1,7 @@
 {
- "version": "1.2.4",
- "notes": "AI封面改为扫描原封面作底稿改图（保留人物模型与画风，星绘图生图逻辑）；AI分镜按原视频逐镜轮换参考帧生成；支持多图参考与自动降级",
- "sha256": "3c826c3e58564f41e6c94803c93fb35e420aedc21a44210bcd74daceb62d81ce",
+ "version": "1.2.5",
+ "notes": "修复：流拷贝切分的片段带不完整数据包导致去重失败（missing picture in access unit），现自动启用破损流容忍解码重试；错误提示改为显示关键尾部信息",
+ "sha256": "26a08e10c93eeda047f7fd09e2c996f412088b9c98aeb369654c74e78281939a",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
