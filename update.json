@@ -1,9 +1,9 @@
 {
- "version": "1.3.8",
- "notes": "新增可开关的顶部提示文字清理，去除 AI创作、情节虚构等角标；同步支持一键流水线。",
- "sha256": "9db51799192e443fe5206dda9a8fe61687b489314b59d52f0990cc7370c12c94",
+ "version": "1.3.9",
+ "notes": "修复授权机 SSL CERTIFICATE_VERIFY_FAILED；内置 Mozilla CA 并兼容 Windows 系统证书库。",
+ "sha256": "0b67434c82222c94b284897931394f5159c469eff2e3258a643b16583951d88d",
  "parts": [
-  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/v1.3.8/lingzhen.exe.001",
-  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/v1.3.8/lingzhen.exe.002"
+  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/v1.3.9/lingzhen.exe.001",
+  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/v1.3.9/lingzhen.exe.002"
  ]
 }
