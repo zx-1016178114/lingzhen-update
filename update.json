@@ -1,7 +1,7 @@
 {
- "version": "1.3.0",
- "notes": "去重算法升级为星绘逻辑：动态几何（旋转随时间摆动）、柔光（概率/Sigma/透明度可调）、片尾定格、音频变调指纹；参数面板新增7项可调；完整滤镜失败自动降级简化滤镜",
- "sha256": "8230fddcc2d6e81be39c7cd10dc8413aafd32cd0bcdad0110ea5e91d8188ac32",
+ "version": "1.3.1",
+ "notes": "去重参数面板重做为星绘同款布局：左侧原片同一帧对比（原图/修改后+时间分辨率信息），右侧两列参数；新增伽马/鱼眼强度/音量衰减/降调st参数，亮度与色相周期独立可调，旋转改为上限单值",
+ "sha256": "cf92fee9294a59e9f024352f52280c80a4bc01ea7653651bcf60dfcffef55ec6",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
