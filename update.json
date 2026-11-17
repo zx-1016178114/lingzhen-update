@@ -1,9 +1,9 @@
 {
- "version": "1.3.5",
- "notes": "修复损坏音频静音兜底的 FFmpeg 参数顺序，解决 anullsrc Invalid argument 导致分段编码失败。",
- "sha256": "4dbc42e2a1255d88dde71876fbd7992b49df1b148d46c38bb04a10053efd4264",
+ "version": "1.3.6",
+ "notes": "修复授权机误报已是最新；新增唯一 blob 备用更新通道与版本化分卷地址，包含静音兜底修复。",
+ "sha256": "b15bd11ac18130e4593b24b03642b035769df6a289ee3f3a269af897668bcebf",
  "parts": [
-  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
-  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
+  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/v1.3.6/lingzhen.exe.001",
+  "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/v1.3.6/lingzhen.exe.002"
  ]
 }
