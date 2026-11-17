@@ -1,7 +1,7 @@
 {
- "version": "1.2.6",
- "notes": "修复：机器码不再依赖不稳定的“第一块盘”序列号（插拔U盘会导致授权丢失），改用CPU+主板+主机UUID；旧激活码自动遍历全部磁盘候选找回，老用户升级授权不丢",
- "sha256": "d4e9aef6ec5447d21c2183529a2576684dc87ca8bbcd5fafc2bd95a91a9c4848",
+ "version": "1.2.7",
+ "notes": "AI封面改用星绘出图逻辑：剧名由AI直接画进封面（字体样式与封面风格一致的艺术字），尺寸跟随原封面比例，人物/构图/色调完全保留，不再本地叠字",
+ "sha256": "04f73fb072056f34cfd07754c27f1a284aa51c55f2dadbed67e593998efaaf9a",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
