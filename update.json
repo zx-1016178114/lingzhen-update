@@ -1,7 +1,7 @@
 {
- "version": "1.3.2",
- "notes": "修复：源视频AAC音轨损坏导致去重失败（Decode error rate超限，错误码-1145393733）；新增解码容错拉满+静音轨兜底降级链，实测损坏音轨视频可正常出片",
- "sha256": "88cfd35bac28eab6f99888b3d01c4b2c48433641f848eed63b7fbb741ac55b5d",
+ "version": "1.3.3",
+ "notes": "更新检查加防缓存（时间戳+no-cache头），解决部分网络下更新信息被缓存导致看不到新版本的问题",
+ "sha256": "1e2996e0f66a7f6bcca004b3b573646a8e9e42223f2cd18d6bc8077c4ddd9f4b",
  "parts": [
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.001",
   "https://api.github.com/repos/zx-1016178114/lingzhen-update/contents/parts/lingzhen.exe.002"
